@@ -141,6 +141,8 @@ header small {
     color: #fff;
     border-radius: 50px;
     padding: 12px 40px;
+    text-decoration: none;
+
 }
 
 .footer-cta {
